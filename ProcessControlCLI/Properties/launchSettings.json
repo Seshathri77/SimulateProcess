@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProcessControlCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "cpu 50"
+    }
+  }
+}
