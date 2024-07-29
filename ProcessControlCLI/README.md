@@ -20,7 +20,7 @@ A command-line tool to simulate high CPU and memory usage, crash a process, and 
 1. **Clone the Repository**
 
     ```sh
-    git clone https://github.com/your-repo/ProcessControlCLI.git
+    git clone https://github.com/Seshathri77/SimulateProcess.git
     cd ProcessControlCLI
     ```
 
